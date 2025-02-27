@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "last_name": "Joe",
+        "first_name": "Bobby",
+        "street_address": "123 Salsa Rode Street",
+        "email": "bobbyjoe123@uadfb.com",
+        "age": "March 30 2000",
+        "index": 0 
+    },
+    {
+        "last_name": "Cindy",
+        "first_name": "Holmes",
+        "street_address": "321 Nachoes Rode Street",
+        "email": "cindyholmes321@uadfb.com",
+        "age": "December 30 2000",
+        "index": 1 
+    }
+]
